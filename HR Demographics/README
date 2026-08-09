@@ -1,9 +1,9 @@
 HR-Demographics-and-Socio-economic-tracker
 
-1. Project Headline
-HR Demographics & Socio-Economic Tracker — An Interactive Power BI Dashboard for Workforce Demographics, Pay Equity, and Employee Stability.
+1. Project Headline:
+HR Demographics & Socio-Economic Tracker: An Interactive Power BI Dashboard for Workforce Demographics, Pay Equity, and Employee Stability.
 
-2. Description / Purpose
+2. Description / Purpose:
 This project was executed to provide an in-depth evaluation of workforce demographics and the socio-economic factors influencing organizational structure. By leveraging an open-source HR dataset, a comprehensive analytical framework was constructed to monitor equity, pay distribution, workforce diversity, and employee stability.
 The primary objective of this analysis was the transformation of raw personnel records into actionable insights regarding workplace composition. A multi-dimensional approach was adopted to ensure that representation was assessed not only by headcount but also through the lens of financial compensation, demographic characteristics, geographic factors, and legal or citizenship status.
 The dashboard was designed to provide stakeholders with both a high-level overview of organizational workforce trends and the ability to drill down into individual employee-level information.
