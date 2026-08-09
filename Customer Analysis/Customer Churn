@@ -1,0 +1,93 @@
+Customer Churn and Risk Mitigation
+1. Project Headline: 
+Customer Churn & Risk Mitigation; An Interactive Power BI Dashboard for Customer Retention and Risk Analysis
+
+2. Description / Purpose:
+This project was carried out to provide a data-driven evaluation of customer retention, churn, and operational risk. By utilizing an open-source customer dataset, a comprehensive analytical framework was constructed to identify the underlying drivers of customer attrition and categorize customers based on their level of risk.
+The primary focus of this analysis was the transformation of raw customer interaction and account data into actionable insights. A dual-layered approach was adopted, where **historical customer performance was balanced against risk indicators** to facilitate proactive customer retention and management.
+The dashboard was designed to help identify areas where customers were most likely to churn, understand the factors contributing to customer risk, and highlight potential actions that could improve customer retention and stabilize revenue.
+
+3. Tech Stack
+The dashboard was developed using the following tools and technologies:
+
+* Power BI Desktop: Used to develop the interactive dashboard, create visualizations, monitor KPIs, and present customer churn and risk insights.
+* Power Query: Used for data cleaning, transformation, and preparation of the raw customer dataset.
+* DAX (Data Analysis Expressions): Used to create calculated measures, KPIs, customer metrics, and risk-related calculations.
+* Data Modeling: Used to structure customer, service, contract, and interaction data to support effective analysis and dashboard interaction.
+These tools enabled the transformation of raw customer records into an interactive customer retention and risk management dashboard.
+
+4. Data Source
+The analysis was based on an open-source Customer Retention Dataset containing customer profiles, contract details, service information, and interaction history.
+The dataset provided information that supported analysis across areas such as:
+* Customer demographics
+* Customer account information
+* Internet and other services
+* Contract type
+* Payment methods
+* Customer tenure
+* Customer support interactions
+* Customer churn/retention status
+
+Data Acquisition: An open-source dataset containing customer profiles, contract details, service information, and interaction history was sourced for the analysis.
+
+Data Cleaning and Transformation: Null values were addressed, and categorical variables were prepared to ensure a robust foundation for the analysis and risk assessment.
+The data was also structured to allow customer information to be analyzed across different dimensions, including demographics, account information, services, contracts, and payment methods.
+
+Risk Categorization: Customers were segmented into "Low, Medium, and High-risk tiers" based on a weighted analysis of customer satisfaction, engagement, and contract stability.
+This risk categorization provided a framework for identifying customers who may require additional attention as part of a proactive retention strategy.
+
+5. Features and Highlights
+The following key analytical areas were prioritized and visualized within the dashboard:
+Key Performance Indicators (KPIs):
+High-level metrics were used to establish a baseline for overall business and customer retention performance.
+The dashboard also highlighted specific retention objectives, including:
+* Increasing technical support capacity for Fiber Optic customers while reducing technical tickets per customer to "0.5"
+* Increasing sales of 1-year and 2-year contracts by 5% each
+* Increasing the use of automatic payments by 5% annually
+These KPIs provide measurable targets that can support customer retention and operational improvement.
+
+Churn Distribution:
+Patterns of customer exit were analyzed across different demographics, customer account characteristics, and service types to identify where the highest levels of customer turnover occurred.
+The Churn Dashboard allows users to explore areas including:
+* Demographics
+* Customer account information
+* Services
+* Contract characteristics
+* Customer behavior
+This provides a clearer understanding of which customer segments are more susceptible to churn.
+
+Customer Risk Assessment:
+A customer risk-scoring mechanism was developed to categorize customers according to their potential likelihood of churn.
+The analysis considered behavioural and account-level triggers such as:
+* Customer engagement
+* Technical support interactions
+* Service usage
+* Contract stability
+* Payment methods
+* Internet service type
+Customers were subsequently categorized into "Low, Medium, and High-risk segments", allowing retention efforts to be prioritized toward customers requiring greater attention.
+
+Financial Impact Analysis: The potential revenue impact associated with at-risk customer segments was considered to support the prioritization of retention activities.
+By identifying higher-risk customer groups, the dashboard provides a basis for understanding where customer attrition could have a greater impact on revenue and where targeted retention strategies may be most valuable.
+
+Customer Risk Analysis: The Customer Risk Analysis section of the dashboard allows customer risk to be examined across key characteristics such as:
+* Internet service
+* Type of contract
+* Payment method
+This provides additional context around the factors that may contribute to customer churn and highlights potential areas where operational or customer-service interventions could be implemented.
+
+Interactive Dashboard: An interactive interface was designed to allow users to seamlessly filter and explore customer information by region, contract type, risk level, demographics, services, and account characteristics.
+The dashboard enables stakeholders to move from high-level KPIs into more detailed churn and risk analysis, supporting a more proactive approach to customer retention.
+
+Conclusion
+This project demonstrated that customer churn is rarely the result of a single event, but rather a culmination of unresolved friction points across the customer journey.
+By systematically visualizing customer behaviour, service information, contract characteristics, payment methods, and risk indicators, a clearer path toward improved customer loyalty and stabilized revenue was established.
+The analysis also highlighted practical areas for intervention, including increasing technical support capacity, encouraging longer-term contracts, and increasing the adoption of automatic payment methods.
+
+Project Specifications:
+
+* Data Source: Open-source Customer Retention Dataset
+* Tools: Power BI Desktop, Power Query, DAX, Data Modeling
+* Focus Areas: Churn Prediction, Risk Segmentation, KPI Tracking, Customer Retention
+* Dashboard Type: Interactive Customer Churn & Risk Analysis Dashboard
+* Key Business Areas: Customer Demographics, Services, Contracts, Payment Methods, Customer Support, Retention
