@@ -1,4 +1,86 @@
 HR-Demographics-and-Socio-economic-tracker
-1. Project Headline
 
+1. Project Headline
 HR Demographics & Socio-Economic Tracker — An Interactive Power BI Dashboard for Workforce Demographics, Pay Equity, and Employee Stability.
+
+2. Description / Purpose
+This project was executed to provide an in-depth evaluation of workforce demographics and the socio-economic factors influencing organizational structure. By leveraging an open-source HR dataset, a comprehensive analytical framework was constructed to monitor equity, pay distribution, workforce diversity, and employee stability.
+The primary objective of this analysis was the transformation of raw personnel records into actionable insights regarding workplace composition. A multi-dimensional approach was adopted to ensure that representation was assessed not only by headcount but also through the lens of financial compensation, demographic characteristics, geographic factors, and legal or citizenship status.
+The dashboard was designed to provide stakeholders with both a high-level overview of organizational workforce trends and the ability to drill down into individual employee-level information.
+
+3. Tech Stack:
+The dashboard was developed using the following tools and technologies:
+
+* Power BI Desktop: Used to build the interactive dashboard, create visualizations, and present key HR insights.
+* Power Query: Used for data cleaning, transformation, standardization, and preparation of the raw HR dataset for analysis.
+* DAX (Data Analysis Expressions): Used to create calculated measures, KPIs, salary analysis, employee metrics, and other analytical calculations.
+* Data Modeling: Used to structure and organize the dataset to support efficient analysis and interaction between different dashboard components.
+The combination of these tools enabled the transformation of raw personnel records into an interactive analytical solution for monitoring workforce demographics, compensation, and employee stability.
+
+4. Data Source:
+The analysis was based on an open-source Human Resources dataset containing employee-level information relating to salary, demographics, employment status, and other workforce characteristics.
+The dataset included information that allowed the analysis to explore:
+
+* Employee salary and compensation
+* Department and job-level information
+* Race and gender
+* Citizenship status
+* Employment and attrition status
+* Date of joining and employee tenure
+* Position and performance-related information
+
+Data Acquisition:
+An open-source HR dataset containing salary information, demographic identifiers, and employment status was sourced for the analysis.
+
+Data Cleaning and Transformation:
+The raw data was refined to ensure consistency and usability across the dashboard. This included:
+* Standardizing currency and salary-related fields
+* Cleaning and categorizing demographic information
+* Ensuring consistency in racial categorization
+* Preparing date-of-joining records for tenure and employee stability analysis
+* Structuring the data for effective reporting and visualization
+
+Socio-Economic Stratification:
+Salary tiers were established to correlate pay grades with demographic representation and citizenship status. This allowed compensation patterns to be evaluated alongside workforce demographics rather than viewing salary and representation as separate areas of analysis.
+
+5. Features and Highlights
+The following key analytical areas were prioritized and visualized within the dashboard:
+
+Average Salary Breakdown
+Compensation data was scrutinized across various departments and job levels to identify pay equity trends and departmental budget distributions. Salary information was analyzed to provide a clearer understanding of how compensation was distributed throughout the organization.
+
+Racial and Gender Representation
+Workforce composition was analyzed to determine the level of diversity across different strata of the organization. The dashboard provides a transparent view of **racial and gender representation**, supporting a better understanding of workplace inclusivity.
+
+Citizenship and Socio-Economic Status
+Employee data was segmented by citizenship status to evaluate the global diversity of the talent pool and its relationship with organizational demographics. Salary tiers were also used to examine the relationship between socio-economic status and employee characteristics.
+
+Attrition Analysis
+Patterns of employee turnover were examined to identify whether specific demographic groups, salary brackets, departments, or other employee characteristics exhibited higher rates of departure
+This provides a clearer view of employee stability and potential areas that may require further investigation.
+
+Employee Details Tracker
+A granular, filterable employee repository was integrated into the dashboard to allow users to seamlessly retrieve individual employee records.
+The tracker provides access to information such as:
+* Employee details
+* Tenure
+* Position
+* Salary
+* Demographic characteristics
+* Performance history
+* Employment status
+
+Interactive Dashboard
+An interactive interface was developed, allowing stakeholders to move between high-level executive summaries and detailed employee-level analysis. Interactive filtering and visual exploration make it possible to examine workforce trends from multiple perspectives and identify relationships between demographics, compensation, and employee stability.
+
+Conclusion
+Through this project, it was demonstrated that organizational health is deeply tied to equitable resource distribution and workforce stability.
+By visualizing the correlation between "demographics, salary, citizenship, and attrition", the dashboard provides a clearer path toward objective, data-driven HR management. The analysis also highlights potential areas for further investigation and socio-economic improvement within the organization.
+
+Project Specifications
+* Data Source: Open-source Human Resources Dataset
+* Tools:Power BI Desktop, Power Query, DAX, Data Modeling
+* Focus Areas: Pay Equity, Demographic Diversity, Socio-Economic Analysis, Attrition Monitoring, Employee Stability
+* Dashboard Type: Interactive HR Analytics Dashboard
+
+
